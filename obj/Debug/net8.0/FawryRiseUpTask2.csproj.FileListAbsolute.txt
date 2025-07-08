@@ -1,0 +1,14 @@
+C:\Users\MalakAmr740\source\repos\FawryRiseUpTask2\bin\Debug\net8.0\FawryRiseUpTask2.exe
+C:\Users\MalakAmr740\source\repos\FawryRiseUpTask2\bin\Debug\net8.0\FawryRiseUpTask2.deps.json
+C:\Users\MalakAmr740\source\repos\FawryRiseUpTask2\bin\Debug\net8.0\FawryRiseUpTask2.runtimeconfig.json
+C:\Users\MalakAmr740\source\repos\FawryRiseUpTask2\bin\Debug\net8.0\FawryRiseUpTask2.dll
+C:\Users\MalakAmr740\source\repos\FawryRiseUpTask2\bin\Debug\net8.0\FawryRiseUpTask2.pdb
+C:\Users\MalakAmr740\source\repos\FawryRiseUpTask2\obj\Debug\net8.0\FawryRiseUpTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MalakAmr740\source\repos\FawryRiseUpTask2\obj\Debug\net8.0\FawryRiseUpTask2.AssemblyInfoInputs.cache
+C:\Users\MalakAmr740\source\repos\FawryRiseUpTask2\obj\Debug\net8.0\FawryRiseUpTask2.AssemblyInfo.cs
+C:\Users\MalakAmr740\source\repos\FawryRiseUpTask2\obj\Debug\net8.0\FawryRiseUpTask2.csproj.CoreCompileInputs.cache
+C:\Users\MalakAmr740\source\repos\FawryRiseUpTask2\obj\Debug\net8.0\FawryRiseUpTask2.dll
+C:\Users\MalakAmr740\source\repos\FawryRiseUpTask2\obj\Debug\net8.0\refint\FawryRiseUpTask2.dll
+C:\Users\MalakAmr740\source\repos\FawryRiseUpTask2\obj\Debug\net8.0\FawryRiseUpTask2.pdb
+C:\Users\MalakAmr740\source\repos\FawryRiseUpTask2\obj\Debug\net8.0\FawryRiseUpTask2.genruntimeconfig.cache
+C:\Users\MalakAmr740\source\repos\FawryRiseUpTask2\obj\Debug\net8.0\ref\FawryRiseUpTask2.dll

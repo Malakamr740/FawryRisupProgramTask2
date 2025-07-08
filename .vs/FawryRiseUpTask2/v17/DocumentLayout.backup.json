@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MalakAmr740\\source\\repos\\FawryRiseUpTask2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C901A9F9-C48F-4424-A771-1E1BB43FE33B}|FawryRiseUpTask2.csproj|c:\\users\\malakamr740\\source\\repos\\fawryriseuptask2\\testcases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C901A9F9-C48F-4424-A771-1E1BB43FE33B}|FawryRiseUpTask2.csproj|solutionrelative:testcases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C901A9F9-C48F-4424-A771-1E1BB43FE33B}|FawryRiseUpTask2.csproj|c:\\users\\malakamr740\\source\\repos\\fawryriseuptask2\\quantumbookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C901A9F9-C48F-4424-A771-1E1BB43FE33B}|FawryRiseUpTask2.csproj|solutionrelative:quantumbookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C901A9F9-C48F-4424-A771-1E1BB43FE33B}|FawryRiseUpTask2.csproj|c:\\users\\malakamr740\\source\\repos\\fawryriseuptask2\\paperbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C901A9F9-C48F-4424-A771-1E1BB43FE33B}|FawryRiseUpTask2.csproj|solutionrelative:paperbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C901A9F9-C48F-4424-A771-1E1BB43FE33B}|FawryRiseUpTask2.csproj|c:\\users\\malakamr740\\source\\repos\\fawryriseuptask2\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C901A9F9-C48F-4424-A771-1E1BB43FE33B}|FawryRiseUpTask2.csproj|solutionrelative:mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C901A9F9-C48F-4424-A771-1E1BB43FE33B}|FawryRiseUpTask2.csproj|c:\\users\\malakamr740\\source\\repos\\fawryriseuptask2\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C901A9F9-C48F-4424-A771-1E1BB43FE33B}|FawryRiseUpTask2.csproj|solutionrelative:ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C901A9F9-C48F-4424-A771-1E1BB43FE33B}|FawryRiseUpTask2.csproj|c:\\users\\malakamr740\\source\\repos\\fawryriseuptask2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C901A9F9-C48F-4424-A771-1E1BB43FE33B}|FawryRiseUpTask2.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C901A9F9-C48F-4424-A771-1E1BB43FE33B}|FawryRiseUpTask2.csproj|c:\\users\\malakamr740\\source\\repos\\fawryriseuptask2\\shippingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C901A9F9-C48F-4424-A771-1E1BB43FE33B}|FawryRiseUpTask2.csproj|solutionrelative:shippingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C901A9F9-C48F-4424-A771-1E1BB43FE33B}|FawryRiseUpTask2.csproj|c:\\users\\malakamr740\\source\\repos\\fawryriseuptask2\\showcasebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C901A9F9-C48F-4424-A771-1E1BB43FE33B}|FawryRiseUpTask2.csproj|solutionrelative:showcasebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuantumBookStore.cs",
+              "DocumentMoniker": "C:\\Users\\MalakAmr740\\source\\repos\\FawryRiseUpTask2\\QuantumBookStore.cs",
+              "RelativeDocumentMoniker": "QuantumBookStore.cs",
+              "ToolTip": "C:\\Users\\MalakAmr740\\source\\repos\\FawryRiseUpTask2\\QuantumBookStore.cs",
+              "RelativeToolTip": "QuantumBookStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:20:49.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestCases.cs",
+              "DocumentMoniker": "C:\\Users\\MalakAmr740\\source\\repos\\FawryRiseUpTask2\\TestCases.cs",
+              "RelativeDocumentMoniker": "TestCases.cs",
+              "ToolTip": "C:\\Users\\MalakAmr740\\source\\repos\\FawryRiseUpTask2\\TestCases.cs",
+              "RelativeToolTip": "TestCases.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:29:36.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaperBook.cs",
+              "DocumentMoniker": "C:\\Users\\MalakAmr740\\source\\repos\\FawryRiseUpTask2\\PaperBook.cs",
+              "RelativeDocumentMoniker": "PaperBook.cs",
+              "ToolTip": "C:\\Users\\MalakAmr740\\source\\repos\\FawryRiseUpTask2\\PaperBook.cs",
+              "RelativeToolTip": "PaperBook.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:14:04.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MailService.cs",
+              "DocumentMoniker": "C:\\Users\\MalakAmr740\\source\\repos\\FawryRiseUpTask2\\MailService.cs",
+              "RelativeDocumentMoniker": "MailService.cs",
+              "ToolTip": "C:\\Users\\MalakAmr740\\source\\repos\\FawryRiseUpTask2\\MailService.cs",
+              "RelativeToolTip": "MailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:26:52.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EBook.cs",
+              "DocumentMoniker": "C:\\Users\\MalakAmr740\\source\\repos\\FawryRiseUpTask2\\EBook.cs",
+              "RelativeDocumentMoniker": "EBook.cs",
+              "ToolTip": "C:\\Users\\MalakAmr740\\source\\repos\\FawryRiseUpTask2\\EBook.cs",
+              "RelativeToolTip": "EBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:18:34.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\MalakAmr740\\source\\repos\\FawryRiseUpTask2\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\MalakAmr740\\source\\repos\\FawryRiseUpTask2\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:01:12.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShippingService.cs",
+              "DocumentMoniker": "C:\\Users\\MalakAmr740\\source\\repos\\FawryRiseUpTask2\\ShippingService.cs",
+              "RelativeDocumentMoniker": "ShippingService.cs",
+              "ToolTip": "C:\\Users\\MalakAmr740\\source\\repos\\FawryRiseUpTask2\\ShippingService.cs",
+              "RelativeToolTip": "ShippingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:25:00.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShowCaseBook.cs",
+              "DocumentMoniker": "C:\\Users\\MalakAmr740\\source\\repos\\FawryRiseUpTask2\\ShowCaseBook.cs",
+              "RelativeDocumentMoniker": "ShowCaseBook.cs",
+              "ToolTip": "C:\\Users\\MalakAmr740\\source\\repos\\FawryRiseUpTask2\\ShowCaseBook.cs",
+              "RelativeToolTip": "ShowCaseBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:06:31.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
